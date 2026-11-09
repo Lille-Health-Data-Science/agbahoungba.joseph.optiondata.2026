@@ -1,0 +1,10 @@
+# Séance 1 · FHIR — environnement testé le 16/10/2026 (Python 3.13)
+# Installation : pip install -r requirements.txt
+requests>=2.28
+pandas>=2.0
+duckdb>=1.1
+fhir.resources>=8.0      # modèles R4B et validation pydantic v2 (model_validate)
+fhirpathpy>=2.0
+matplotlib>=3.7
+ipywidgets>=8       # curseurs de la partie D
+jupyter

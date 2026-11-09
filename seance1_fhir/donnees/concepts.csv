@@ -1,0 +1,7 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_code,usage_dans_le_tp
+8507,MALE,Gender,Gender,M,PERSON.gender_concept_id
+8532,FEMALE,Gender,Gender,F,PERSON.gender_concept_id
+3004501,Glucose [Mass/volume] in Serum or Plasma,Measurement,LOINC,2345-7,MEASUREMENT.measurement_concept_id
+3013826,Glucose [Moles/volume] in Serum or Plasma,Measurement,LOINC,14749-6,MEASUREMENT.measurement_concept_id (variante sans conversion)
+8840,milligram per deciliter,Unit,UCUM,mg/dL,MEASUREMENT.unit_concept_id
+32817,EHR,Type Concept,Type Concept,,MEASUREMENT.measurement_type_concept_id

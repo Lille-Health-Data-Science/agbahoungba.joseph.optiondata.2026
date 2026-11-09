@@ -1,0 +1,6 @@
+# Bibliothèques utilisées par les DAG des TP (en plus d'Airflow)
+pandas
+pyarrow
+pandera[pandas]>=0.24      # pandera.pandas (étape 3) existe depuis la 0.24
+duckdb>=1.1
+requests

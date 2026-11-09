@@ -1,0 +1,7 @@
+# Fichiers à ne pas pousser
+sortie/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
